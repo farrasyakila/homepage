@@ -1,27 +1,27 @@
 {
 	"head": {
-		"title": "Homepage", //edited
+		"title": "Homepage",
 		"description": "Author:SimonMa,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "Farra Syakila's Homepage", //edited
-		"subtitle": "Welcome to my page", //edited
+		"title": "Farra Syakila's Homepage",
+		"subtitle": "Welcome to my page",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "Farra Syakila Balqis", //edited
-		"signature": "Devops Engineer", //edited
+		"name": "Farra Syakila Balqis",
+		"signature": "Devops Engineer",
 		"avatar": {
-			"link": "assets/avatar1.jpg", //edited
+			"link": "assets/avatar1.jpg",
 			"height": "100",
 			"width": "100"
 		},
 		"ul": {
 			"first": {
-				"href": "https://medium.com/@farrasyakila", //edited
+				"href": "https://medium.com/@farrasyakila",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
@@ -31,12 +31,12 @@
 				"text": "About"
 			},
 			"third": {
-				"href": "mailto:farrasyakila@gmail.com", //edited
+				"href": "mailto:farrasyakila@gmail.com",
 				"icon": "email",
 				"text": "Email"
 			},
 			"fourth": {
-				"href": "https://github.com/farrasyakila", //edited
+				"href": "https://github.com/farrasyakila",
 				"icon": "github",
 				"text": "Github"
 			}
