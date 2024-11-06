@@ -1,4 +1,4 @@
-# landing-page
+# Home Page
 
 Pada kali ini kita akan mendeploy Landing Page.
 
